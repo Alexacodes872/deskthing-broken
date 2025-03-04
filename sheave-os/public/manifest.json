@@ -1,0 +1,24 @@
+{
+  "label": "NaviCore",
+  "isAudioSource": true,
+  "isScreenSaver": true,
+  "isWebApp": true,
+  "requires": [
+    "spotify",
+    "volctrl",
+    "weatherwaves",
+    ""
+  ],
+  "version": "1.0.0",
+  "version_code": 1,
+  "compatible_client": 1,
+  "description": "This an app os that runs the spodify app music contrls and weather controls in one app sheave-os",
+  "author": "Alexacodes872",
+  "platforms": [
+    "windows"
+  ],
+  "homepage": "https://sheave-os.onepage.me/",
+  "repository": "https://github.com/Alexacodes872/deskthing-broken-test",
+  "id": "sheave-os",
+  "template": "full"
+}
